@@ -16,8 +16,8 @@ Feel free to chat with me on LinkedIn about my projects!
 
 | Project Name | Description |
 |---|---|
-| 🍜Danny's Diner | |
-| 🍕Pizza Runner  | |
+| [🍜Danny's Diner](https://github.com/aditya345-coder/8-Week-SQL-Challenge_/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | |
+| [🍕Pizza Runner](https://github.com/aditya345-coder/8-Week-SQL-Challenge_/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)  | |
 
 <hr>
 
