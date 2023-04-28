@@ -5,7 +5,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 
 Feel free to chat with me on LinkedIn about my projects!
 
-:books: ## Table of Contents
+## :books: Table of Contents
 
 - [SQL](#SQL)
 - [Python](#Python)
