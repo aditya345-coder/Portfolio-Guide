@@ -30,7 +30,9 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 
 | Project Name | Description |
 |---|---|
-|  |    |
+| [House prices prediction eda & ml model](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/house-prices-prediction-eda-ml-model.ipynb) |    |
+| [Car-price-prediction](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/car-price-prediction.ipynb) | |
+| |
 
 <hr>
 
