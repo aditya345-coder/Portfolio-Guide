@@ -13,8 +13,6 @@ Feel free to chat with me on LinkedIn about my projects!
 - [End to End Projects](#End-to-End-Projects)
 
 ## SQL
-:ramen:
-:pizza:
 
 | Project Name | Description |
 |---|---|
@@ -23,6 +21,7 @@ Feel free to chat with me on LinkedIn about my projects!
 
 <hr>
 ## Python
+
 Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
@@ -30,7 +29,6 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 | Project Name | Description |
 |---|---|
 |  |    |
-
 
 <hr>
 ## Power BI
