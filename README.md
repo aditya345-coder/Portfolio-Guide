@@ -50,3 +50,10 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 |---|---|
 | [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| |
 |     |         |
+
+
+## End to End Projects
+
+
+| Project Name | Description |
+|---|---|
