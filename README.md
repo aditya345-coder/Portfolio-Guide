@@ -36,6 +36,10 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 
 ## Excel
 
+| Project Name | Description |
+|---|---|
+| [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) |    |
+
 <hr>
 
 ## Power BI
