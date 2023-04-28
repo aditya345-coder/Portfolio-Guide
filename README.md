@@ -9,6 +9,7 @@ Feel free to chat with me on LinkedIn about my projects!
 
 - [SQL](#SQL)
 - [Python](#Python)
+- [Excel](#Excel)
 - [Power BI](#Power-BI)
 - [End to End Projects](#End-to-End-Projects)
 
@@ -30,6 +31,10 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 | Project Name | Description |
 |---|---|
 |  |    |
+
+<hr>
+
+## Excel
 
 <hr>
 
