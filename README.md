@@ -20,6 +20,7 @@ Feel free to chat with me on LinkedIn about my projects!
 | 🍕Pizza Runner  | |
 
 <hr>
+
 ## Python
 
 Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
@@ -31,6 +32,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 |  |    |
 
 <hr>
+
 ## Power BI
 
 | Project Name | Description |
