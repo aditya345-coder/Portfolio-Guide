@@ -10,6 +10,7 @@ Feel free to chat with me on LinkedIn about my projects!
 - [SQL](#SQL)
 - [Python](#Python)
 - [Power BI](#Power-BI)
+- [End to End Projects](#End-to-End-Projects)
 
 ## SQL
 :ramen:
@@ -22,9 +23,19 @@ Feel free to chat with me on LinkedIn about my projects!
 
 <hr>
 ## Python
+Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
+
+Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
+
+| Project Name | Description |
+|---|---|
+|  |    |
+
 
 <hr>
 ## Power BI
 
-
-
+| Project Name | Description |
+|---|---|
+| Titanic Dataset Analysis| |
+|     |         |
