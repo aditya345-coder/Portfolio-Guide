@@ -16,6 +16,8 @@ Feel free to chat with me on LinkedIn about my projects!
 
 ## SQL
 
+Skills: Data cleaning, Data wrangling, Data analysis
+
 | Project Name | Description |
 |---|---|
 | [🍜Danny's Diner](https://github.com/aditya345-coder/8-Week-SQL-Challenge_/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | |
@@ -39,6 +41,8 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 
 ## Excel
 
+Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
+
 | Project Name | Description |
 |---|---|
 | [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) |    |
@@ -46,6 +50,8 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 <hr>
 
 ## Power BI
+
+Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 | Project Name | Description |
 |---|---|
