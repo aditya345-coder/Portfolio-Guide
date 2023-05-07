@@ -11,6 +11,7 @@ Feel free to chat with me on LinkedIn about my projects!
 - [Python](#Python)
 - [Excel](#Excel)
 - [Power BI](#Power-BI)
+- [Web Projects](#Web-Projects)
 - [End to End Projects](#End-to-End-Projects)
 
 ## SQL
@@ -32,7 +33,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 |---|---|
 | [House prices prediction eda & ml model](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/house-prices-prediction-eda-ml-model.ipynb) |    |
 | [Car-price-prediction](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/car-price-prediction.ipynb) | |
-| |
+
 
 <hr>
 
@@ -49,8 +50,16 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 | Project Name | Description |
 |---|---|
 | [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| |
-|     |         |
 
+<hr>
+
+## Web Projects
+
+| Project Name | Description |
+|---|---|
+
+
+<hr>
 
 ## End to End Projects
 
