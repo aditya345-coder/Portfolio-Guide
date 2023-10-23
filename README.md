@@ -72,3 +72,4 @@ Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 | Project Name | Description |
 |---|---|
+| [Cat or Dog Classification](https://github.com/aditya345-coder/Cat_Or_Dog_Classification) | |
