@@ -1,9 +1,9 @@
 # Portfolio Guide
 Hi there! 🙋🏻‍♀️
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects.
+Welcome to my Portfolio Guide where I provide a walkthrough to all of my projects.
 
-Feel free to chat with me on LinkedIn about my projects!
+Feel free to chat with me on [LinkedIn](https://linkedin.com/in/aditya-gaharwar) about my projects!
 
 ## :books: Table of Contents
 
