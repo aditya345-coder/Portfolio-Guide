@@ -54,7 +54,7 @@ Skills:
 
 | Project Name | Tools | Description |
 |---|---|---|
-| Student-Management-System | Django, HTML, CSS, Bootstrap | A student management system to store student details.|
+| [Student-Management-System](https://github.com/aditya345-coder/Student-Management-System) | Django, HTML, CSS, Bootstrap | A student management system to store student details.|
 
 ## Machine Learning 
 
