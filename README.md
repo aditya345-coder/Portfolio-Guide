@@ -10,9 +10,10 @@ Feel free to chat with me on [LinkedIn](https://linkedin.com/in/aditya-gaharwar)
 
 - [Python](#Python)
 - [SQL](#SQL)
-- [Excel](#Excel)
-- [Power BI](#Power-BI)
-- [End to End Projects](#End-to-End-Projects)
+- [Dashboard](#Dashboard)
+- [Web Projects](#Web-Projects)
+- [Machine Learning](#Machine-Learning)
+- [LLM & GenAI](#LLM-&-GenAI)
 
 ## Python
 
@@ -31,37 +32,42 @@ Libraries: pandas, numpy, matplotlib, seaborn, ploty, scikit-learn
 
 Skills: Data cleaning, Data wrangling, Data analysis
 
-| Project Name | Description |
-|---|---|
-| [🍜Danny's Diner](https://github.com/aditya345-coder/8-Week-SQL-Challenge_/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | |
-| [🍕Pizza Runner](https://github.com/aditya345-coder/8-Week-SQL-Challenge_/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)  | |
+| Project Name | Tools | Description |
+|---|---|---|
+| [Danny's Ma 8-Week SQL Challenge](https://github.com/aditya345-coder/8-Week-SQL-Challenge) | MySQL | Challenges presented in Danny's Ma 8-Week SQL Challenge. |
 
 <hr>
 
-## Excel
+## Dashboard
 
 Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
-| Project Name | Description |
-|---|---|
-| [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) |    |
-
-<hr>
-
-## Power BI
-
-Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
-
-| Project Name | Description |
-|---|---|
-| [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| |
+| Project Name | Tools | Description |
+|---|---|---|
+| [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| Power BI | |
+| [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) | Excel    | |
 
 
 <hr>
 
-## End to End Projects
+## Web Projects
+
+Skills: 
+
+| Project Name | Tools | Description |
+|---|---|---|
+| Student-Management-System | Django, HTML, CSS, Bootstrap | A student management system to store student details.|
+
+## Machine Learning 
+
+Skills: Data Analysis, Machine Learning, Deep Learning
+
+| Project Name | Tools | Description |
+|---|---|---|
+| [Wine-Quality-End-to-End-ML-Project](https://github.com/aditya345-coder/Wine-Quality-End-to-End-ML-Project) | Python, DagsHub, MLFlow, Jupyter notebook, Flask | End to End Machine learning project on predicting the price of wine based on its quality.|
 
 
-| Project Name | Description |
-|---|---|
-| [Cat or Dog Classification](https://github.com/aditya345-coder/Cat_Or_Dog_Classification) | |
+## LLM & GenAI
+| Project Name | Tools | Description |
+|---|---|---|
+| [Cold Email Generator](https://github.com/aditya345-coder/Cold-Email-Generator) | Python, Llama3.1, ChromaDB, LangChain, Streamlit | The Cold Email Generator is an end-to-end solution designed to streamline and automate the process of crafting cold emails. This project leverages the power of advanced Large Language Models (LLMs) and Generative AI to generate personalized emails efficiently. |
