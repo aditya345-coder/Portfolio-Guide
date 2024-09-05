@@ -20,7 +20,7 @@ Feel free to chat with me on [LinkedIn](https://linkedin.com/in/aditya-gaharwar)
 Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 | Project Name | Area | Description | Libraries|
-|---|---|
+|---|---|---|---|
 | [House prices prediction eda & ml model](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/house-prices-prediction-eda-ml-model.ipynb) | Data Wrangling & EDA, ML model | | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn|
 | [Car-price-prediction](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/car-price-prediction.ipynb) | ata Wrangling & EDA, ML model | | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn | 
 
