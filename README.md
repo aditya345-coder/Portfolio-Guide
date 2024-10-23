@@ -53,7 +53,7 @@ Skills: Data Analysis, Machine Learning, Deep Learning
 | Project Name | Tools | Description |
 |---|---|---|
 | [Wine-Quality-End-to-End-ML-Project](https://github.com/aditya345-coder/Wine-Quality-End-to-End-ML-Project) | Python, DagsHub, MLFlow, Jupyter notebook, Flask | End to End Machine learning project on predicting the price of wine based on its quality.|
-| [Text-Summarization](https://github.com/aditya345-coder/Text-Summarization) | Python, Docker, Jupyter notebook, Flask | End to End Machine learning project on predicting the price of wine based on its quality.|
+| [Text-Summarization](https://github.com/aditya345-coder/Text-Summarization) | Python, Docker, Jupyter notebook, Flask | End to End Deep learning project on Text Summarization. |
 
 
 ## LLM & GenAI
