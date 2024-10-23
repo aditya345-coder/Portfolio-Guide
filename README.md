@@ -9,8 +9,7 @@ Feel free to chat with me on [LinkedIn](https://linkedin.com/in/aditya-gaharwar)
 
 
 - [Python](#Python)
-- [SQL](#SQL)
-- [Dashboard](#Dashboard)
+- [SQL](#SQL-&-Dahsboard)
 - [Web Projects](#Web-Projects)
 - [Machine Learning & Deep Learning](#Machine-Learning-&-Deep-Learning)
 - [LLM & GenAI](#LLM-&-GenAI)
@@ -26,26 +25,16 @@ Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 <hr>
 
-## SQL
+## SQL & Dashboard
 
-Skills: Data cleaning, Data wrangling, Data analysis
+Skills: Data cleaning, Data wrangling, Data analysis, Data visualisation
 
 | Project Name | Tools | Description |
 |---|---|---|
 | [Danny's Ma 8-Week SQL Challenge](https://github.com/aditya345-coder/8-Week-SQL-Challenge) | MySQL | Challenges presented in Danny's Ma 8-Week SQL Challenge. |
 | [Pizza Sales Analysis](https://github.com/aditya345-coder/Pizza-Sales-Analysis) | MySQL, PowerBI | Analysed pizza data and created dashboard. |
-
-<hr>
-
-## Dashboard
-
-Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
-
-| Project Name | Tools | Description |
-|---|---|---|
-| [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| Power BI | |
-| [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) | Excel    | |
-
+| [Titanic Dataset Analysis](https://github.com/aditya345-coder/Power_BI_Projects/tree/main/Titanic%20Dataset%20Analysis)| Power BI | Analysed famous titanic data using power bi|
+| [Bike_buyers_Analysis](https://github.com/aditya345-coder/Excel_Projects/tree/main/Bike_buyers_Analysis) | Excel  | Analysed and created dashboard. |
 
 <hr>
 
