@@ -33,6 +33,7 @@ Skills: Data cleaning, Data wrangling, Data analysis
 | Project Name | Tools | Description |
 |---|---|---|
 | [Danny's Ma 8-Week SQL Challenge](https://github.com/aditya345-coder/8-Week-SQL-Challenge) | MySQL | Challenges presented in Danny's Ma 8-Week SQL Challenge. |
+| [Pizza Sales Analysis](https://github.com/aditya345-coder/Pizza-Sales-Analysis) | MySQL, PowerBI | Analysed pizza data and created dashboard. |
 
 <hr>
 
