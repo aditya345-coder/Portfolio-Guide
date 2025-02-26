@@ -20,8 +20,8 @@ Skills: Data cleaning, Data wrangling, Data visualisation, Data analysis
 
 | Project Name | Area | Description | Libraries|
 |---|---|---|---|
-| [House prices prediction eda & ml model](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/house-prices-prediction-eda-ml-model.ipynb) | Data Wrangling & EDA, ML model | | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn|
-| [Car-price-prediction](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/car-price-prediction.ipynb) | Data Wrangling & EDA, ML model | | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn | 
+| [House prices prediction eda & ml model](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/house-prices-prediction-eda-ml-model.ipynb) | Data Wrangling & EDA, ML model | Data exploration and price prediction using ML techniques. | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn|
+| [Car-price-prediction](https://github.com/aditya345-coder/Data-Analysis/blob/main/Python/car-price-prediction.ipynb) | Data Wrangling & EDA, ML model | Analyzing car datasets and building a predictive model for car prices. | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn | 
 
 <hr>
 
