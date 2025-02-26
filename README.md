@@ -40,11 +40,12 @@ Skills: Data cleaning, Data wrangling, Data analysis, Data visualisation
 
 ## Web Projects
 
-Skills: 
+Skills: HTML, Bootstrap
 
 | Project Name | Tools | Description |
 |---|---|---|
 | [Student-Management-System](https://github.com/aditya345-coder/Student-Management-System) | Django, HTML, CSS, Bootstrap | A student management system to store student details.|
+| [ByteNotes](https://github.com/aditya345-coder/ByteNotes) | Django, HTML, CSS, Bootstrap, React | ByteNotes is a full-stack note-taking application.|
 
 ## Machine Learning & Deep Learning
 
@@ -53,7 +54,8 @@ Skills: Data Analysis, Machine Learning, Deep Learning
 | Project Name | Tools | Description |
 |---|---|---|
 | [Wine-Quality-End-to-End-ML-Project](https://github.com/aditya345-coder/Wine-Quality-End-to-End-ML-Project) | Python, DagsHub, MLFlow, Jupyter notebook, Flask | End to End Machine learning project on predicting the price of wine based on its quality.|
-| [Text-Summarization](https://github.com/aditya345-coder/Text-Summarization) | Python, Docker, Jupyter notebook, Flask | End to End Deep learning project on Text Summarization. |
+| [Text-Summarization](https://github.com/aditya345-coder/Text-Summarization) | Python, Jupyter notebook, Flask | End to End Deep learning project on Text Summarization. |
+|[Movie-Recommender-System](https://github.com/aditya345-coder/Movie-Recommender-System)| Python, Jupyter notebook, Streamlit | End to End machine learning project on Movie Recommendation System. |
 
 
 ## LLM & GenAI
