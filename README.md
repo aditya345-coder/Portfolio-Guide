@@ -39,7 +39,7 @@ Skills: Data cleaning, Data wrangling, Data analysis, Data visualisation
 
 ## Web Projects
 
-Skills: HTML, Bootstrap
+Skills: HTML, Bootstrap, Django, Flask
 
 | Project Name | Tools | Description |
 |---|---|---|
