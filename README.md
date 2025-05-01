@@ -53,7 +53,6 @@ Skills: Data Analysis, Machine Learning, Deep Learning
 | Project Name | Tools | Description |
 |---|---|---|
 | [Wine-Quality-End-to-End-ML-Project](https://github.com/aditya345-coder/Wine-Quality-End-to-End-ML-Project) | Python, DagsHub, MLFlow, Jupyter notebook, Flask | End to End Machine learning project on predicting the price of wine based on its quality.|
-| [Text-Summarization](https://github.com/aditya345-coder/Text-Summarization) | Python, Jupyter notebook, Flask | End to End Deep learning project on Text Summarization. |
 |[Movie-Recommender-System](https://github.com/aditya345-coder/Movie-Recommender-System)| Python, Jupyter notebook, Streamlit | End to End machine learning project on Movie Recommendation System. |
 
 
@@ -61,3 +60,4 @@ Skills: Data Analysis, Machine Learning, Deep Learning
 | Project Name | Tools | Description |
 |---|---|---|
 | [Cold Email Generator](https://github.com/aditya345-coder/Cold-Email-Generator) | Python, Llama3.1, ChromaDB, LangChain, Streamlit | The Cold Email Generator is an end-to-end solution designed to streamline and automate the process of crafting cold emails. This project leverages the power of advanced Large Language Models (LLMs) and Generative AI to generate personalized emails efficiently. |
+| [Text-to-Image Generator](https://github.com/aditya345-coder/Text-to-Image) | Python, Pytorch, HuggingFace, Streamlit | This is an end-to-end Streamlit application for generating images from text prompts using the Stable Diffusion model. Built with diffusers from Hugging Face, the app allows users to input custom prompts, adjust generation parameters, and download the generated images.|
