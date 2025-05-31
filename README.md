@@ -43,8 +43,9 @@ Skills: HTML, Bootstrap, Django, Flask
 
 | Project Name | Tools | Description |
 |---|---|---|
-| [Student-Management-System](https://github.com/aditya345-coder/Student-Management-System) | Django, HTML, CSS, Bootstrap | A student management system to store student details.|
 | [ByteNotes](https://github.com/aditya345-coder/ByteNotes) | Django, HTML, CSS, Bootstrap, React | ByteNotes is a full-stack note-taking application.|
+| [AI Medical Assist](https://github.com/Gandhiprajwal/AI-Medical-Assist)| HTML, CSS, JavaScript, React, Tailwind, Nodejs, MongoDB, Redis, Python| AI Medical Assist is a full-stack AI-powered healthcare platform that analyzes symptoms and medical reports using machine learning to provide early health insights and connect users with doctors. |
+
 
 ## Machine Learning & Deep Learning
 
